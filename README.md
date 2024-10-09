@@ -9,7 +9,8 @@ Insert the DMA board's jtag/uart port and put your firmware in "flash tools", th
 > I'm happy to help you. Please cite the source if you share this script.
 
 Website: [https://kilmu.dev/](https://kilmu.dev/)
-Discord Channel: https://discord.gg/sXeTPJfpaN
+
+Discord Channel: https://discord.gg/KilmuDMA
 
 
 
